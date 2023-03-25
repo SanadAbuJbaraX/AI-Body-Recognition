@@ -18,4 +18,5 @@ Detects Face mesh, hands and body posture ( AI template )
 - set OPENCV_VIDEOIO_PRIORITY_MSMF to 0 in the enviroment variables
 # 🔗 License
 Permission is  granted for any person obtaining a copy of this software without any restriction, without limitation he has the rights to use,  fork,  publish, distribute, and sell copies of the program.
+
 Note this license should be put in every copy.
