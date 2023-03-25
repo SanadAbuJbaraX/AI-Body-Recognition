@@ -1,6 +1,5 @@
-# AI-Body-Recognition
-Detects Face mesh hands and body posture ( AI template)
-# Version 1.0.0
+# AI-Body-Recognition Version 1.0.0
+Detects Face mesh, hands and body posture ( AI template )
 # Modules 
 - open cv
 - mediaipe
@@ -9,3 +8,6 @@ Detects Face mesh hands and body posture ( AI template)
 ``` git clone https://github.com/SanadAbuJbaraX/AI-Body-Recognition ```
 # Run
 ``` python3 PATH/TO/FILE/main.py ```
+# Error Handling
+- make sure modules are installed proerly
+- set OPENCV_VIDEOIO_PRIORITY_MSMF to 0 in the enviroment variables
